@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add nodemon -d
+
+PATH: 
+  C:\Perl64\site\bin;C:\Perl64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\DELL\AppData\Local\Temp\WZSE0.TMP\v90\runtime\win64;D:\serie film\Games\runtime\win64;D:\serie film\Games\bin;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\ZendFramework\bin;C:\apache-maven-3.8.5\apache-maven\src\bin;C:\Users\DELL\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\DELL\AppData\Local\Programs\Python\Python39\;C:\Users\DELL\.dotnet\tools;C:\Users\DELL\AppData\Local\GitHubDesktop\bin;C:\Users\DELL\AppData\Local\atom\bin;C:\Users\DELL\AppData\Roaming\Composer\vendor\bin;C:\Users\DELL\AppData\Roaming\npm;C:\apache-maven-3.8.5\apache-maven\src\bin;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\.dotnet\tools;C:\flutter\bin;C:\Program Files\Git\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.13.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
